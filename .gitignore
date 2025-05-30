@@ -1,3 +1,6 @@
+# Ignore sensitive database credentials
+db.properties
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
